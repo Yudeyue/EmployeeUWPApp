@@ -1,0 +1,2 @@
+D:\Metropolia.NET\EmployeeComponent\EmployeeComponent.csproj;x86
+D:\Metropolia.NET\EmployeeUWPApp\EmployeeUWPApp.csproj;x86
